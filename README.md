@@ -1,4 +1,4 @@
-# Hi, I'm Abdullah 👋
+# Hi, I'm Abdallah 👋
 
 ## About Me
 I’m Abdallah Abusharekh, a Front-End React Developer focused on building robust, visually appealing, and responsive web applications with real-world impact.
