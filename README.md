@@ -1,9 +1,9 @@
 # Hi, I'm Abdallah 👋
 
 ## About Me
-I’m a Front-End Developer focused on building robust, visually appealing, and responsive web applications that create meaningful impact.
+I’m a Frontend Developer focused on building scalable, responsive web applications with React.js, Next.js, and TypeScript.
 
-I specialize in React.js, Next.js, and modern UI development, focusing on writing clean, maintainable code and building scalable architectures that deliver high-performance applications and smooth, interactive user experiences.
+I focus on writing clean, maintainable code, designing well-structured applications, and creating intuitive interfaces with smooth interactions. I enjoy solving problems through code, exploring new technologies, and building applications that provide real value.
 
 Always learning, Always building 🚀
 
