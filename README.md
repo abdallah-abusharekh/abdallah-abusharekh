@@ -11,7 +11,7 @@ Always learning, Always building 🚀
 
 ## 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,tailwind,react,nextjs,nodejs,expressjs,mongodb,postgresql,prisma" />
 </p>
 
 ---
