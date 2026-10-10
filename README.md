@@ -19,6 +19,6 @@ Always learning, Always building 🚀
 ## 📫 Contact Me
 <p>
   <a href="https://abdallah-abusharekh.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="https://mail.google.com/mail/?view=cm&fs=1&to=aboodmabusharekh1412004@gmail.com&su=GitHub%20Profile%20Inquiry"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=abdallahabusharekh66@gmail.com&su=GitHub%20Profile%20Inquiry"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/abdallah-abusharekh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p
